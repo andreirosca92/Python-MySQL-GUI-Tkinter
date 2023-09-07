@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0af32e2d-b932-4fdd-8084-bef710451a43" name="Changes" comment="Removed Files and folder" />
+    <list default="true" id="0af32e2d-b932-4fdd-8084-bef710451a43" name="Changes" comment="Removed Files and folder 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +62,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694128139176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removed Files and folder 2">
+      <option name="closed" value="true" />
+      <created>1694128392802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694128392802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Files GUI Tkinter" />
     <MESSAGE value="Removed Files and folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Files and folder" />
+    <MESSAGE value="Removed Files and folder 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Files and folder 2" />
   </component>
 </project>
